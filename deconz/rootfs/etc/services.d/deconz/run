@@ -73,7 +73,7 @@ exec deCONZ \
     --dbg-otau="${DBG_OTAU}" \
     --dbg-zcl="${DBG_ZCL}" \
     --dbg-zdp="${DBG_ZDP}" \
-    --upnp=0 \
+    --upnp=1 \
     --http-port=40850 \
     --ws-port=8081 \
     --dev="${DECONZ_DEVICE}"
