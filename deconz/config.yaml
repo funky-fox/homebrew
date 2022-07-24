@@ -19,7 +19,7 @@ discovery:
   - deconz
 gpio: true
 homeassistant: 0.91.2
-image: a2f55edb3c0d4fa3c96919a2048a0b7179094b0a35133cf425876610c7921427
+image: homeassistant/{arch}-addon-deconz
 ingress: true
 ingress_entry: ingress.html
 init: false
