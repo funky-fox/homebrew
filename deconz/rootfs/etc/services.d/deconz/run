@@ -1,6 +1,6 @@
 #!/usr/bin/with-contenv bashio
 # ==============================================================================
-# Start deCONZ service
+# Start deCONZ service (customized)
 # ==============================================================================
 TMP_FOLDER=$(mktemp -d)
 
