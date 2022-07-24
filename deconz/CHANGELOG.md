@@ -1,9 +1,9 @@
 # Changelog
 
-## 6.15.1
+## 6.15.0(custom)
 
 - upnp:1
-- 
+
 ## 6.15.0
 
 - Bump deCONZ to 2.17.1
