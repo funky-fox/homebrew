@@ -28,9 +28,9 @@ options:
   device: null
 panel_icon: mdi:zigbee
 ports:
-  40850/tcp: null
+  40850/tcp: 80
   5900/tcp: null
-  8081/tcp: null
+  8081/tcp: 20877
 privileged:
   - SYS_RAWIO
 schema:
